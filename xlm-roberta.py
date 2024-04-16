@@ -7,6 +7,7 @@ import pandas as pd
 # Load data
 train_data = pd.read_csv("data/subtask-2-english/train_en.tsv",sep='\t')  # Update with your train data file
 dev_data = pd.read_csv("data/subtask-2-english/dev_en.tsv", sep='\t')  # Update with your dev data file
+test_data = pd.read_csv("data/subtask-2-english/dev_test_en.tsv", sep='\t')  # Update with your dev data file
 
 # Mapping label strings to integers
 label_map = {"OBJ": 0, "SUBJ": 1}
