@@ -11,9 +11,12 @@ dev_data = pd.read_csv("data/subtask-2-english/dev_en.tsv", sep='\t')  # Update 
 # Mapping label strings to integers
 label_map = {"OBJ": 0, "SUBJ": 1}
 train_data['label'] = train_data['label'].map(label_map)
+train_data = train_data.drop('solved_conflict', axis=1)
 dev_data['label'] = dev_data['label'].map(label_map)
 
-train_data.set_format("torch", columns=["input_ids", "attention_mask", "label"])
+print(train_data)
+
+#train_data.set_format("torch", columns=["input_ids", "attention_mask", "label"])
 
 # Load tokenizer
 tokenizer = XLMRobertaTokenizer.from_pretrained('xlm-roberta-large')
