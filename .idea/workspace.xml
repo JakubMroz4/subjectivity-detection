@@ -6,11 +6,16 @@
   <component name="ChangeListManager">
     <list default="true" id="a62e9410-f140-4ba3-b151-04f9c3d85f8a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/arabic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/arabic-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/bulgarian-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/bulgarian-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/english-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/english-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/german-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/german-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/english.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/english.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/german.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/german.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/report notes" beforeDir="false" afterPath="$PROJECT_DIR$/report notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/italian-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/italian-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/multilingual24-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/multilingual24-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/arabic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/arabic.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bulgarian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bulgarian.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/italian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/italian.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/multilingual24.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/multilingual24.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
