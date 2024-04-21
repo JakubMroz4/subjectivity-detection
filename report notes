@@ -4,3 +4,12 @@
 TODO
 4. experimentation
 5. results
+
+
+
+Validation loss: lr 5s-3 eph4
+Step	Training Loss	Validation Loss
+50	0.646700	0.740615
+100	0.603700	0.701402
+150	0.547100	0.572092
+200	0.510500	0.861234
