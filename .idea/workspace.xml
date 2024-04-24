@@ -7,33 +7,20 @@
     <list default="true" id="a62e9410-f140-4ba3-b151-04f9c3d85f8a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/arabic-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/arabic-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/bulgarian-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/bulgarian-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/data_analysis-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/english_baseline-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/english_baseline-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/german_baseline-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/german_baseline-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/english-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/english-checkpoint.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/italian-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/italian-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/multilingual23-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/multilingual24-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/multilingual24-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/arabic.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/arabic.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bulgarian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/bulgarian.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/subtask-2-bulgarian/dev_bg.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subtask-2-bulgarian/dev_bg.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/subtask-2-bulgarian/dev_test_bg.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subtask-2-bulgarian/dev_test_bg.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data/subtask-2-bulgarian/train_bg.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/data/subtask-2-bulgarian/train_bg.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/english.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/english.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/english_baseline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/english_baseline.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/german.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/german.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/german_baseline.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/german_baseline.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/italian.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/italian.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/multilingual23.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/multilingual24.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/multilingual24.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.ipynb_checkpoints/Project_RoBERTa-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/.ipynb_checkpoints/RoBERTa_2_features-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/Project_RoBERTa.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/RoBERTa_2_features.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/xlm-roberta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report notes" beforeDir="false" afterPath="$PROJECT_DIR$/report notes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/SubjectivityDetectionReport_group15.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/figures/en_epoch5_lr5e-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/report/figures/en_epoch5_lr5e-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/figures/ml_epoch4_lr5e-5.png" beforeDir="false" afterPath="$PROJECT_DIR$/report/figures/ml_epoch4_lr5e-5.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/notes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/~$notes.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/report/~WRL2993.tmp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
